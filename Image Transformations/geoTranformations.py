@@ -1,4 +1,3 @@
-#Κακιώνης Βασίλειος ΑΜ2981
 import numpy as np
 import matplotlib.pyplot as plt
 from PIL import Image
